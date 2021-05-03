@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WPGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WPGUI_jar</output-path>
+    <root id="archive" name="WPGUI.jar">
+      <element id="module-output" name="WPGUI" />
+    </root>
+  </artifact>
+</component>
