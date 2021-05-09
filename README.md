@@ -1,6 +1,6 @@
 # WeightedProduct-Java
 
-To determine the best product , implemented in **Java**.
+Decision Support System using Weighted Product method, implemented in java, implemented in **Java**.
 
 ##  Installing
 > Make sure that you have JRE ( Java Runtime Environment)  installed on your system !
